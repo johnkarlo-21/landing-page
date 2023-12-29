@@ -74,3 +74,45 @@ li {
     color: #E5E7EB;
     font-weight: 900;
 }
+
+/* section two */
+
+.section-two-container {
+    margin: 0 100px;
+    padding-bottom: 80px;
+}
+
+.section-two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0;
+}
+
+.section-two-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    margin-bottom: 40px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+}
+
+.card {
+    max-width: 150px;
+}
+
+.card-img {
+    border-radius: 10px;
+    border: 5px solid #3882f6;
+}
+
+.card p {
+    color: #1F2937;
+}
