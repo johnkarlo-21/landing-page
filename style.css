@@ -121,6 +121,7 @@ li {
 
 .section-three-container {
     background-color: #E5E7EB ;
+    margin-bottom: 80px;
 }
 
 .section-three {
@@ -143,3 +144,48 @@ li {
 .quotes-container {
     margin: 0 100px;
 }
+
+/*section four */
+
+.section-four-container {
+    margin: 0 200px;
+    padding-bottom: 80px;
+}
+
+.section-four {
+    background-color: #3882f6;
+    border-radius: 5px;
+    padding: 40px 0;
+}
+
+.action-container {
+    margin: 0 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.four-main-text {
+    color: #E5E7EB;
+}
+
+.action-btn {
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: 1px solid #E5E7EB;
+    background-color: #3882f6;
+    color: #E5E7EB;
+    font-weight: 900;
+}
+
+/*footer section */
+
+footer {
+    background-color: #1F2937;
+    padding: 50px 0;
+    text-align: center;
+}
+
+footer p {
+    color: #E5E7EB;
+}
+
